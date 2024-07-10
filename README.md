@@ -51,7 +51,7 @@
   <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="180px" max-width="180px" width="180px" align="top">
 </a> <br>
 
-## Onde me encontrar
+**Onde me encontrar?**
 
 [![Linkedin](https://img.shields.io/badge/-phmcodes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/phmcodes/)](https://www.linkedin.com/in/phmcodes/)
 [![Gmail Badge](https://img.shields.io/badge/-phmcodes77@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:phmcodes77@gmail.com)
