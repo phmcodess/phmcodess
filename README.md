@@ -5,9 +5,8 @@
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 Formado como Tecnico em Desenvolvimento de Sistemas
 - 💼 Sou funcionario público fora da área de tecnologia
-- 💼 Sou PJ em uma empresa privada. Forneço dashboards de digital store. (Utilizo
-- PowerBI, Python, MySql, API...
-- 🌱 Aprendendo mais sobre {Desenvolvimento WEB(React, Typescript, Node.JS e Jquery}.
+- 💼 Sou PJ em uma empresa privada. Forneço dashboards de digital store. (Utilizo PowerBI, Python, MySql, API's...)
+- 🌱 Aprendendo mais sobre {Desenvolvimento WEB(React, Typescript, Node.JS e Jquery)}.
 
 ## Minhas Skills
 
