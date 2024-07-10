@@ -47,8 +47,8 @@
 
 <br/>
 
-<a href="https://github.com/phmcodess" title="Perfil do Iuri">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iuricode&theme=dracula&show_icons=true" />
+<a href="https://github.com/phmcodess" title="Perfil do Paulo">
+  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 </a>
 
 ## Onde me encontrar
