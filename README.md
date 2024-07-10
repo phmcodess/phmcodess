@@ -3,9 +3,11 @@
 ## Sobre mim
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 Estudando {seu curso} no {faculdade}.
-- 💼 Trabalhando como {stack em que você trabalhar} na {empresa}.
-- 🌱 Aprendendo mais sobre {tecnologias que você está aprendendo}.
+- 🎓 Formado como Tecnico em Desenvolvimento de Sistemas
+- 💼 Sou funcionario público fora da área de tecnologia
+- 💼 Sou PJ em uma empresa privada. Forneço dashboards de digital store. (Utilizo
+- PowerBI, Python, MySql, API...
+- 🌱 Aprendendo mais sobre {Desenvolvimento WEB(React, Typescript, Node.JS e Jquery}.
 
 ## Minhas Skills
 
@@ -45,7 +47,7 @@
 
 <br/>
 
-<a href="https://github.com/iuricode" title="Perfil do Iuri">
+<a href="https://github.com/phmcodess" title="Perfil do Iuri">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iuricode&theme=dracula&show_icons=true" />
 </a>
 
