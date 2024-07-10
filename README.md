@@ -49,7 +49,7 @@
 
 <a href="https://github.com/phmcodess" title="Perfil do Paulo">
   <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="180px" max-width="180px" width="180px" align="top">
-</a>
+</a> <br>
 
 ## Onde me encontrar
 
